@@ -12,6 +12,7 @@
  [通过移动物联网卡的基站定位](https://open.iot.10086.cn/develop/expense/lbs/#/pathpay/pathpay)
 
 ## Wifi定位
+不需要GPS硬件设备,也不需要额外流量，定位10000次，14元钱，定位精度500米左右
  [通过移动物联网卡的Wifi定位](https://open.iot.10086.cn/develop/expense/lbs/#/pathpay/pathpay)
 
 ## Gps定位
