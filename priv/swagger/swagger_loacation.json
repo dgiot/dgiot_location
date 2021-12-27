@@ -1,0 +1,12 @@
+{
+  "tags": [
+    {
+      "name": "Location",
+      "description": "位置定位"
+    }
+  ],
+  "definitions": {
+  },
+  "paths": {
+  }
+}
